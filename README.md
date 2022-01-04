@@ -2,7 +2,11 @@
 
 This repository is the official implementation of
 
-- *Seohong Park, Jaekyeom Kim, Gunhee Kim*. **Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods**. In *NeurIPS, 2021*.
+- *[Seohong Park](https://artberryx.github.io/),
+[Jaekyeom Kim](https://jaekyeom.github.io/),
+[Gunhee Kim](https://vision.snu.ac.kr/gunhee/)*.
+**Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods**. In *NeurIPS, 2021*.
+[[paper]](https://arxiv.org/abs/2111.03941) [[talk]](https://neurips.cc/virtual/2021/poster/27532) [[slides]](https://neurips.cc/virtual/2021/poster/27532)
 
 It contains the implementations for SAR, FiGAR-C and base policy gradient algorithms (PPO, TRPO and A2C).
 
